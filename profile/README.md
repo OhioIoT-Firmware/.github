@@ -32,7 +32,7 @@ self-contained.
 
 | | PlatformIO | Arduino IDE |
 |---|---|---|
-| **[Tier1]** — WiFi, MQTT, metrics | [`[Tier1]-PlatformIO`](../../../[Tier1]-PlatformIO) | [`[Tier1]-ArduinoIDE`](../../../[Tier1]-ArduinoIDE) |
+| **Minimalist** — WiFi, MQTT, metrics | [`[Tier1]-PlatformIO`](../../../Minimalist-PlatformIO) | [`Minimalist-ArduinoIDE`](../../../[Tier1]-ArduinoIDE) |
 | **Scaler** — adds structured commands | [`Scaler-PlatformIO`](../../../Scaler-PlatformIO) | [`Scaler-ArduinoIDE`](../../../Scaler-ArduinoIDE) |
 | **Champion** — adds provisioning, OTA, settings, sleep | [`Champion-PlatformIO`](../../../Champion-PlatformIO) | [`Champion-ArduinoIDE`](../../../Champion-ArduinoIDE) |
 
