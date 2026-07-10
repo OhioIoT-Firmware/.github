@@ -42,4 +42,4 @@ Start with the **Minimalist** to establish basic MQTT connectivity.  Then move t
 
 ## Links
 
-[The Website - OhioIoT.com](https://ohioiot.com) · [Documentation](https://ohioiot.com/docs)
+[OhioIoT.com](https://ohioiot.com) · [Documentation](https://ohioiot.com/docs)
