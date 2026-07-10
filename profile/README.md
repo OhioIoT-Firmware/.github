@@ -4,6 +4,7 @@
 
 Firmware for connecting ESP32 devices to the internet.  
 
+*** THESE CODE BASES ARE STILL UNDER DEVELOPMENT *** 
 These codebases default to pointing towards the OhioIoT server.  You can override these defaults with build flags in PlatformIO.  For the Arduino IDE versions, it's also possible by editing the code directly.  Instructions on how to do that will follow soon.
 
 
