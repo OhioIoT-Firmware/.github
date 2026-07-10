@@ -2,11 +2,24 @@
 
 # OhioIoT
 
-Firmware for connecting ESP32 devices to the internet.
+Firmware for connecting ESP32 devices to the internet.  
+
+These codebases default to pointing towards the OhioIoT server.  You can override these defaults with build flags in PlatformIO.  For the Arduino IDE versions, it's also possible by editing the code directly.  Instructions on how to do that will follow soon.
+
 
 ```cpp
-void setup() { controller.setup(WIFI_SSID, WIFI_PASS, MQTT_USER, MQTT_PASS); }
-void loop()  { controller.loop(); }
+
+// define your variables
+
+void setup() {
+    controller.setup(WIFI_SSID, WIFI_PASS, MQTT_USER, MQTT_PASS);
+    // add your own code
+}
+
+void loop()  {
+    controller.loop();
+    // add your own code
+}
 ```
 
 That's a device online, publishing metrics, and ready for over-the-air updates.
