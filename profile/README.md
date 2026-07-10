@@ -32,9 +32,9 @@ self-contained.
 
 | | PlatformIO | Arduino IDE |
 |---|---|---|
-| **Minimalist** — DeviceID, WiFi, and MQTT | [`Minimalist-PlatformIO`](../../Minimalist-PlatformIO) | [`Minimalist-ArduinoIDE`](../../[Tier1]-ArduinoIDE) |
-| **Scaler** — adds Monitoring and Messages | [`Scaler-PlatformIO`](../../Scaler-PlatformIO) | [`Scaler-ArduinoIDE`](../../Scaler-ArduinoIDE) |
-| **Champion** — adds Provisioning, OTA, and Settings | [`Champion-PlatformIO`](../../Champion-PlatformIO) | [`Champion-ArduinoIDE`](../../Champion-ArduinoIDE) |
+| **Minimalist** — DeviceID, WiFi, and MQTT | [`Minimalist-PlatformIO`](../../../Minimalist-PlatformIO) | [`Minimalist-ArduinoIDE`](../../../[Tier1]-ArduinoIDE) |
+| **Scaler** — adds Monitoring and Messages | [`Scaler-PlatformIO`](../../../Scaler-PlatformIO) | [`Scaler-ArduinoIDE`](../../../Scaler-ArduinoIDE) |
+| **Champion** — adds Provisioning, OTA, and Settings | [`Champion-PlatformIO`](../../../Champion-PlatformIO) | [`Champion-ArduinoIDE`](../../../Champion-ArduinoIDE) |
 
 Start with the **Minimalist** to establish basic MQTT connectivity.  Then move to the downstream libraries to add in more features.
 
