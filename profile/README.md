@@ -32,7 +32,7 @@ self-contained.
 
 | | PlatformIO | Arduino IDE |
 |---|---|---|
-| **Minimalist** — DeviceID, WiFi, and MQTT | [`Minimalist-PlatformIO`](https://github.com/OhioIoT-Firmware/Minimalist-PlatformIO) | [`Minimalist-ArduinoIDE`](../../../[Tier1]-ArduinoIDE) |
+| **Minimalist** — DeviceID, WiFi, and MQTT | [`Minimalist-PlatformIO`](https://github.com/OhioIoT-Firmware/Minimalist-PlatformIO)) | [`Minimalist-ArduinoIDE`](../../../[Tier1]-ArduinoIDE) |
 | **Scaler** — adds Monitoring and Messages | [`Scaler-PlatformIO`](../../../Scaler-PlatformIO) | [`Scaler-ArduinoIDE`](../../../Scaler-ArduinoIDE) |
 | **Champion** — adds Provisioning, OTA, and Settings | [`Champion-PlatformIO`](../../../Champion-PlatformIO) | [`Champion-ArduinoIDE`](../../../Champion-ArduinoIDE) |
 
