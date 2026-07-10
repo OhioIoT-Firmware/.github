@@ -32,18 +32,14 @@ self-contained.
 
 | | PlatformIO | Arduino IDE |
 |---|---|---|
-| **Minimalist** — WiFi, MQTT, metrics | [`Minimalist-PlatformIO`](../../../Minimalist-PlatformIO) | [`Minimalist-ArduinoIDE`](../../../[Tier1]-ArduinoIDE) |
-| **Scaler** — adds structured commands | [`Scaler-PlatformIO`](../../../Scaler-PlatformIO) | [`Scaler-ArduinoIDE`](../../../Scaler-ArduinoIDE) |
-| **Champion** — adds provisioning, OTA, settings, sleep | [`Champion-PlatformIO`](../../../Champion-PlatformIO) | [`Champion-ArduinoIDE`](../../../Champion-ArduinoIDE) |
+| **Minimalist** — DeviceID, WiFi, and MQTT | [`Minimalist-PlatformIO`](../../../Minimalist-PlatformIO) | [`Minimalist-ArduinoIDE`](../../../[Tier1]-ArduinoIDE) |
+| **Scaler** — adds Monitoring and Messages | [`Scaler-PlatformIO`](../../../Scaler-PlatformIO) | [`Scaler-ArduinoIDE`](../../../Scaler-ArduinoIDE) |
+| **Champion** — adds Provisioning, OTA, and Settings | [`Champion-PlatformIO`](../../../Champion-PlatformIO) | [`Champion-ArduinoIDE`](../../../Champion-ArduinoIDE) |
 
-Start with **[Tier1]**. Moving up a tier is copy-paste — the controller API is
-identical across all six.
+Start with the **Minimalist** to establish basic MQTT connectivity.  Then move to the downstream libraries to add in more features.
 
-## Also here
 
-- [`Modules`](../../../Modules) — the building blocks the tiers are made of. Drop a
-  folder into any ESP32 project; most have no dependencies.
 
 ## Links
 
-[ohioiot.com](https://ohioiot.com) · [Docs](https://ohioiot.com/docs)
+[The Website - OhioIoT.com](https://ohioiot.com) · [Documentation](https://ohioiot.com/docs)
