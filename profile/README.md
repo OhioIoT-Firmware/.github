@@ -45,4 +45,6 @@ Start with the **Minimalist** to establish basic MQTT connectivity.  Then move t
 [Documentation](https://ohioiot.com/docs)
 
 
-*OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com).*
+*Find video tutoriols on making IoT systems at the YouTube channel (https://youtube.com/@ohioiot).*
+
+*OhioIoT is an IoT platform designed for small-scale IoT projects (https://ohioiot.com).*
