@@ -4,8 +4,7 @@
 
 Firmware for connecting ESP32 devices to the OhioIoT MQTT broker.  
 
-*** THESE CODE BASES ARE STILL UNDER DEVELOPMENT *** 
-If you have any questions, please send a note from the web page at [ohioiot.com/contact](https://ohioiot.com/contact).
+This codebase is constantly under review.  If you have any feedback or questions, please send a note from the web page at [ohioiot.com/contact](https://ohioiot.com/contact).
 
 
 ```cpp
