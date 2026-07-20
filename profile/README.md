@@ -7,22 +7,6 @@ Firmware for connecting ESP32 devices to the OhioIoT MQTT broker.
 This codebase is constantly under review.  If you have any feedback or questions, please send a note from the web page at [ohioiot.com/contact](https://ohioiot.com/contact).
 
 
-```cpp
-
-// define your variables
-
-void setup() {
-    controller.setup(WIFI_SSID, WIFI_PASS, MQTT_USER, MQTT_PASS);
-    // add your own code
-}
-
-void loop()  {
-    controller.loop();
-    // add your own code
-}
-```
-
-
 ## What's here
 
 The SDK ships as **three tiers**, each in a **PlatformIO** and an **Arduino IDE**
