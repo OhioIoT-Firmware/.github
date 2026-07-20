@@ -33,7 +33,7 @@ self-contained.
 |---|---|---|
 | **Minimalist** — DeviceID, WiFi, and MQTT | [`Minimalist-PlatformIO`](https://github.com/OhioIoT-Firmware/Minimalist-PlatformIO) | [`Minimalist-ArduinoIDE`](https://github.com/OhioIoT-Firmware/Minimalist-ArduinoIDE) |
 | **Scaler** — adds Monitoring and Messages | [`Scaler-PlatformIO`](https://github.com/OhioIoT-Firmware/Scaler-PlatformIO) | [`Scaler-ArduinoIDE`](https://github.com/OhioIoT-Firmware/Scaler-ArduinoIDE) |
-| **Champion** — adds Provisioning, OTA, and Settings | [`Champion-PlatformIO`](https://github.com/OhioIoT-Firmware/Minimalist-PlatformIO) | [`Champion-ArduinoIDE`](https://github.com/OhioIoT-Firmware/Champion-PlatformIO) |
+| **Champion** — adds Provisioning, OTA, and Settings | [`Champion-PlatformIO`](https://github.com/OhioIoT-Firmware/Champion-PlatformIO) | [`Champion-ArduinoIDE`](https://github.com/OhioIoT-Firmware/Champion-ArduinoIDE) |
 
 Start with the **Minimalist** to establish basic MQTT connectivity.  Then move to the downstream libraries to add in more features.
 
