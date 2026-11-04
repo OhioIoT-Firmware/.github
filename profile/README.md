@@ -2,6 +2,8 @@
 
 # OhioIoT
 
+[(back to OhioIoT GitHub Page)](https://github.com/OhioIoT-Examples)
+
 Firmware for connecting ESP32 devices to the OhioIoT MQTT broker.  
 
 This codebase is constantly under review.  If you have any feedback or questions, please send a note from the web page at [ohioiot.com/contact](https://ohioiot.com/contact).
@@ -27,7 +29,9 @@ Start with the **Minimalist** to establish basic MQTT connectivity.  Then move t
 
 [Documentation](https://ohioiot.com/docs)
 
+<br />
+Learn more about OhioIoT:
 
-*Find video tutoriols on making IoT systems at the YouTube channel (https://youtube.com/@ohioiot).*
-
-*OhioIoT is an IoT platform designed for small-scale IoT projects (https://ohioiot.com).*
+- [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda-free tutorials showing you how to get started in IoT
+- [OhioIoT GitHub Index](https://github.com/OhioIoT-Examples) - The central index of code examples available on GitHub
