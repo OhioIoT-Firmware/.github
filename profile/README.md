@@ -2,7 +2,7 @@
 
 # OhioIoT
 
-[(back to OhioIoT GitHub Page)](https://github.com/OhioIoT-Examples)
+[(back to OhioIoT on GitHub)](https://github.com/OhioIoT)
 
 Firmware for connecting ESP32 devices to the OhioIoT MQTT broker.  
 
