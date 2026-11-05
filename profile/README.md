@@ -30,8 +30,7 @@ Start with the **Minimalist** to establish basic MQTT connectivity.  Then move t
 [Documentation](https://ohioiot.com/docs)
 
 <br />
-Learn more about OhioIoT:
-
-- [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
-- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda-free tutorials showing you how to get started in IoT
-- [OhioIoT GitHub Index](https://github.com/OhioIoT-Examples) - The central index of code examples available on GitHub
+## Learn more about OhioIoT
+- [OhioIoT on the web](https://ohioiot.com) — the tools you need to put together your own IoT system with an ESP32. $7/mo.
+- [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — agenda-free IoT tutorials
+- [Code examples index](https://github.com/OhioIoT-Examples)
