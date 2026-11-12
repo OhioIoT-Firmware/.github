@@ -1,6 +1,6 @@
 
 
-# OhioIoT
+# OhioIoT Firmware<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 
 [(back to OhioIoT on GitHub)](https://github.com/OhioIoT)
 
