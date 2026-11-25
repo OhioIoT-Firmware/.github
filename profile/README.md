@@ -34,5 +34,5 @@ Start with the **Minimalist** to establish basic MQTT connectivity.  Then move t
 ## Learn more about OhioIoT
 
 - [OhioIoT on the web](https://ohioiot.com) — the tools you need to put together your own IoT system with an ESP32. $7/mo.
-- [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — agenda-free IoT tutorials
+- [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — practical ESP32 and Raspberry Pi projects with real, working code
 - [Code examples index](https://github.com/OhioIoT-Examples)
